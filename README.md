@@ -1,2 +1,2 @@
-# CS224n Winter2019 Assignments Solutions
-My solutions to cs224n-Winter 2019 Assignments
+# CS224N Winter2019 Assignments Solutions
+My solutions to CS224N-Winter 2019 Assignments
